@@ -1,10 +1,14 @@
+# 2026-05-08
+
+The group passed 2 proposals, inviting two microgrants on beginner-friendly p5.strands API work. One microgrant focuses on instancing support, with testing and initial implementation both on GLSL and WGSL transpilation. The second migrogrant focuses on more p5-like color support (eg hexcodes).
+
 # 2026-04-29
 
 The group passed 2 proposals, inviting a microgrant on technical research on improving p5.js v2 typography in WebGL and a microgrant on adding an offline reference documentation feature to the p5.js website.
 
 # 2026-03-17
 
-The group passed 1 proposal including to expand developer in residence work  for p5.js-website maintenance, with a focus on usability and accessibility.
+The group passed 1 proposal including to expand developer in residence work for p5.js-website maintenance, with a focus on usability and accessibility.
 
 # 2026-02-17
 
