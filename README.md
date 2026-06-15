@@ -6,7 +6,7 @@
 * Kit Kuksenok (chairperson, since Sep 16, 2025)
 * Xin Xin (PF team, since Sep 16, 2025)
 
-## Guideline v1.1
+## Guideline v1.2
 
 ### 1. HOW DO WE USE THIS DOCUMENT?
 
@@ -47,6 +47,8 @@
 
 * The chairperson is responsible for recording motion and outcome, and facilitating **DELIBERATION** by sharing materials to consider at least 1 week / 7 days in advance of any motion related to those materials. If there are logistical challenges, it is the chairperson’s job to notice and proactively improve scheduling.
 
+* The chairperson initiates drafting of the public decision record note, and ensures that all voting members have at least 1 day to review the note. The note must be as detailed as possible, without revealing confidential or private information.
+
 * If a **NO-CONFIDENCE** motion passes, the chair is removed from the chairperson role and/or the committee immediately. If they are the p5.js Project Lead, their employment or job tasks are not affected - the decision is strictly about their role in the p5.js Shared Responsibility Committee decisionmaking.
 
 **(4)** How can a contributor or PF team/board member become part of the p5.js SRC?
@@ -63,13 +65,14 @@ Minimum 50% members present, including at least 2 from the PF team/board, and at
 
 This can mean different things in a synchronous meeting or an asynchronous thread:
 
-In a synchronous meeting, a motion is brought verbally and pasted into chat, and votes are cast over chat.
+In a synchronous meeting, a motion is brought verbally and pasted into the shared confidential document, and votes are cast in that document.
 
-In an asynchronous thread, a motion is sent over both email and Discord. The decision is final when (1) 100% committee members respond with votes OR (2) 1 week / 7 days pass AND a quorum (at least half) amount of votes are cast.
+In an asynchronous thread, a motion is sent over email. The decision is final when (1) 100% committee members respond with votes OR (2) 1 week / 7 days pass AND a quorum (at least half) amount of votes are cast.
 
 **(2) CONSENSUS**
 
 Voting yes/no/abstain. Not anonymous. No voting in absentia: members must be present (sync) or personally respond (async). No proxy or pre-submitted votes.
+
 Consensus: minimum 50% yes & no objections. Every joint committee member has veto power. E.g.:
 
 Not consensus: 1 yes + 3 abstentions; or 4 yes + 1 no
@@ -82,17 +85,13 @@ Abstention counts toward quorum - but recusal does NOT count toward quorum. To a
 
 …significant personal connection to someone or something being discussed - including motions affecting one’s own compensation or removal from the committee
 
-**(3) RECORDED** in a document of decisions for that year. 
+**(3) RECORDED** in a public document of all historical decisions.
 
-This is separate from the procedures document, which may be more widely shared / public. Committee membership (but NOT attendance/voting) is public. The purpose is to balance transparency and confidentiality: a final decision is something the committee makes as a whole.
+This is separate from the procedures document, and is shared publicly in [the p5.js-src repository](https://github.com/processing/p5.js-src/blob/main/decision_record.md).
 
-The document of decisions **NOT** public, but accessible (read or edit) to current members of the committees. This does not include PF team members outside the committee. When new members are added or removed, there’s a new document. This record clearly indicates internal and public notes, e.g.:
+Committee membership (but NOT attendance/voting) is also public. The purpose is to balance transparency and confidentiality: a final decision is something the committee makes as a whole.
 
-|  TOPIC & OUTCOME | INTERNAL/CONFIDENTIAL | PUBLICLY SHAREABLE |
-|--|--|--|
-| PersonC moves to adopt amendments ___ to the procedure ___. ❌ Denied YYYY-MM-DD |  Yes: X, Y, Z. No: PersonB (with some internal notes). Abstain: PersonC |  Because of __, we didn’t change our __ procedure, so we will continue to ___. | 
-| PersonY moves to suspend/unsuspend user ___? ✅ Passed YYYY-MM-DD | Yes: PersonX, PersonY, PersonB, PersonC. Abstain: PersonZ | No public statement due to confidentiality. |
-| PersonA moves to ___? ❓ Too many recusals / abstentions: seek ext. advisor(s) | Yes: X. Abstain: Z, Y. Recused: A, B, C, D | In order to help us understand how to ____, we’ll be looking for external advice from ___. |
+Because votes are cast either in the confidential document or over email, the votes and comments are accessible to current members of the committee. This does not include PF team members outside the committee. When new members are added or removed, a new confidential document is created, to maintain confidentiality of past deliberation.
 
 ### EXAMPLES OF TOPICS THAT ARE - OR ARE NOT - OUR *SHARED RESPONSIBILITY*
 
