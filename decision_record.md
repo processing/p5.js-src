@@ -1,3 +1,7 @@
+# 2026-05-17
+
+The group approved work scope for 1 paid Developer in Residence position (one of the code contributor support programs) with a focus on p5.js website maintenance (July 1 - December 22), as well as [an amendment](https://github.com/processing/p5.js-src/pull/3) to the guideline related to how public desicion record is maintained.
+
 # 2026-05-08
 
 The group passed 2 proposals, inviting two microgrants on beginner-friendly p5.strands API work. One microgrant focuses on instancing support, with testing and initial implementation both on GLSL and WGSL transpilation. The second migrogrant focuses on more p5-like color support (eg hexcodes).
