@@ -1,6 +1,6 @@
 # 2026-07-24
 
-Approved work scope for 1 paid Developer in Residence position (one of the code contributor support programs) with a focus on p5.js graphics and accessibility (August 1 - December 22).
+Approved work scope for 1 paid Developer in Residence position (one of the code contributor support programs) with a focus on p5.js core library / graphics (August 1 - December 22).
 
 # 2026-06-30
 
