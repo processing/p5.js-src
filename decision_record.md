@@ -1,6 +1,14 @@
+# 2026-07-24
+
+Approved work scope for 1 paid Developer in Residence position (one of the code contributor support programs) with a focus on p5.js graphics and accessibility (August 1 - December 22).
+
+# 2026-06-30
+
+Held deliberation session regarding nominees for the 3 open seats on the SRC.
+
 # 2026-05-17
 
-The group approved work scope for 1 paid Developer in Residence position (one of the code contributor support programs) with a focus on p5.js website maintenance (July 1 - December 22), as well as [an amendment](https://github.com/processing/p5.js-src/pull/3) to the guideline related to how public desicion record is maintained.
+The group approved work scope for 1 paid Developer in Residence position (one of the code contributor support programs) with a focus on p5.js website maintenance (July 1 - December 22), as well as [an amendment](https://github.com/processing/p5.js-src/pull/3) to the guideline related to how public decision record is maintained.
 
 # 2026-05-08
 
