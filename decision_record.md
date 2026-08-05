@@ -1,3 +1,7 @@
+# 2026-08-05
+
+The group approved Guideline v1.3 ([v1.2...v1.3 changes](https://github.com/processing/p5.js-src/commit/6860efd309cd44b57659b321960b41083be5a2a5)), which were also approved by the Processing Foundation board. This guideline reflects a shared, public agreement on mutual expectations and standards of conduct between PF and SRC.
+
 # 2026-07-24
 
 Approved work scope for 1 paid Developer in Residence position (one of the code contributor support programs) with a focus on p5.js core library / graphics (August 1 - December 22).
