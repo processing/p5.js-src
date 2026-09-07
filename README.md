@@ -6,7 +6,7 @@
 4. Kit Kuksenok (chairperson, since Sep 16, 2025)
 5. Xin Xin (PF team, since Sep 16, 2025)
 
-## Guideline v1.3
+## Guideline v1.4
 
 The p5.js Shared Responsibility Committee is a joint decision-making body with members from Processing Foundation and the p5.js contributor community, accountable to the wider community through transparent processes.
 
@@ -43,8 +43,9 @@ We recognize the complexity of the terms used to describe our respective identit
 
 **(1)** The committee is 5-10 people, including a CHAIRPERSON, balancing p5.js and PF interests:
 
-* 2-5 p5.js community members (excluding PF team/board members) who represent the needs of p5.js as a software project and community.
-* 2-5 PF team/board members (not counting the p5.js Project Lead) who represents the needs of PF as an organization.
+* 2-5 p5.js community members (excluding PF team/board members) who represent the priorities of p5.js as a software project and community.
+* 2-5 PF team/board members (not counting the p5.js Project Lead) who represents the priorities of PF as an organization.
+* What it means to "represent the priorities" and what those priorities are (more educational focus compared to more technical focus, for example) changes over time and the committee as a whole is responsible for researching and adapting to the priorities of the project, such as through expanding membership of the SRC and the approach to nomination.
 
 **(2)** What does every committee member do? **Individual rights and responsibilities**:
 
@@ -76,10 +77,7 @@ We recognize the complexity of the terms used to describe our respective identit
 
 **(4)** How can a contributor or PF team/board member become part of the p5.js SRC?
 
-New members are added by closed nomination based on extensive established contribution to the p5.js community. Each SRC member nominates up to 3 people for internal review, prior to contacting the people. All current members of the SRC provide their nomination notes. Ranking by priority (based on collective subjective estimation of the recency and relevance of the nominee’s activities), the SRC reaches out to the top-ranked nominees in order, until there can be 5 interviews with available nominees covering how they would reflect inclusion and access in their role. Interviews are either recorded or attended by all members of the SRC. Based on deliberation, the open seats are filled in a way that best enables the SRC as a whole to act on the core values of inclusion and access.
-
-**(5)** How can a contributor or PF team/board member become part of the p5.js SRC?
-New members are added by closed nomination based on extensive established contribution to the p5.js community. Each SRC member nominates up to 3 people for internal review, prior to contacting the people. All current members of the SRC provide their nomination notes. Ranking by priority (based on collective subjective estimation of the recency and relevance of the nominee’s activities), the SRC reaches out to the top-ranked nominees in order, until there can be 5 interviews with available nominees covering how they would reflect inclusion and access in their role. Interviews are either recorded or attended by all members of the SRC. Based on deliberation, the open seats are filled in a way that best enables the SRC as a whole to act on the core values of inclusion and access.
+New members are added by closed nomination based on extensive established contribution to the p5.js community. Each SRC member nominates up to 3 people for internal review, prior to contacting the people. All current members of the SRC provide their nomination notes. Ranking by priority (based on collective subjective estimation of the recency and relevance of the nominee’s activities), the SRC reaches out to the top-ranked nominees in order, until there can be 5 interviews with available nominees covering how they would reflect inclusion and access in their role. Interviews are either recorded or attended by all members of the SRC. Based on deliberation, the open seats are filled in a way that best enables the SRC as a whole to act on the core values of inclusion and access. This selection process is intentionally open, to allow the SRC to responsibly appoint committee members that can help address emerging project priorities.
 
 ### 3. DECISION PROCESS
 
