@@ -1,3 +1,14 @@
+# 2026-09-01
+
+Held deliberation session, continuing the discussion of the 3 open seats on the SRC, resulting in sending out invitations to initial nominees. Our current approach to nomination reflects the following current priorities of the project:
+
+* Communication / Governance transparency
+* Software update awareness & testing
+* Contributor retention, steward onboarding
+
+As one additional outcome of this discussion, we drafted some clarifications to our README about the expectations around committee membership (_these were approved 2026-09-07 as Guideline [v1.3...v1.4 changes](https://github.com/processing/p5.js-src/commit/99f05140f4780ff5a53190f2992713d23c3cb73a
+)_). For most of the session, we discussed technical roadmap and budget implications related to potential external funding.
+
 # 2026-08-05
 
 The group approved Guideline v1.3 ([v1.2...v1.3 changes](https://github.com/processing/p5.js-src/commit/6860efd309cd44b57659b321960b41083be5a2a5)), which were also approved by the Processing Foundation board. This guideline reflects a shared, public agreement on mutual expectations and standards of conduct between PF and SRC.
