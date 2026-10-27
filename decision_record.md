@@ -1,3 +1,17 @@
+# 2026-10-19
+
+As a result of the ongoing nomination and review process, the SRC is excited to welcome Computational Mama and Emily Lovell as new members on the committee, representing the p5.js community.
+
+[Read the 2025-2026 p5.js SRC report here](https://processingfoundation.org/blog/p5js-shared-responsibility-committee/)
+
+# 2026-10-15
+
+During this deliberation session, the SRC allocated $7500 for Developers in Residence (DIR) work in 2026/2027 in support of the 2027 Fellowship. This is in addition to the total 2026/2027 budget (see also: [Maintenance Fund](https://processingfoundation.org/blog/announcing-the-processing-foundation-maintenance-fund/))
+
+* Graphics: performance improvements for shapes and colors
+* Game UI usability and accessibility
+* Co-creation of the physics engine 
+
 # 2026-09-01
 
 Held deliberation session, continuing the discussion of the 3 open seats on the SRC, resulting in sending out invitations to initial nominees. Our current approach to nomination reflects the following current priorities of the project:
