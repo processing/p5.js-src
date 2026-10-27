@@ -1,10 +1,17 @@
 # p5.js Shared Responsibility Committee
 
-1. Amy B. Woodman (PF team, since Sep 16, 2025)
-2. Dave Pagurek (p5.js community, since Sep 16, 2025)
-3. Kenneth Lim (p5.js community, since Sep 16, 2025)
-4. Kit Kuksenok (chairperson, since Sep 16, 2025)
-5. Xin Xin (PF team, since Sep 16, 2025)
+1. [Amy B. Woodman](https://www.amybwoodman.com/) (PF team, since Sep 16, 2025)
+2. [Computational Mama](https://computationalmama.xyz/) (p5.js community, since Oct 19, 2026)
+3. [Dave Pagurek](http://davepagurek.com) (p5.js community, since Sep 16, 2025)
+4. [Emily Lovell](https://github.com/emmet0r) (p5.js community, since Oct 19, 2026)
+5. [Kenneth Lim](https://limzykenneth.com/) (p5.js community, since Sep 16, 2025)
+6. [Kit Kuksenok](https://xnze.ro/) (chairperson, since Sep 16, 2025)
+7. Xin Xin (PF team, since Sep 16, 2025)
+
+# Reports & Announcements
+
+* [September 2025 - September 2026](https://processingfoundation.org/blog/p5js-shared-responsibility-committee/)
+* [Announcing the Processing Foundation Maintenance Fund](https://processingfoundation.org/blog/announcing-the-processing-foundation-maintenance-fund/) 
 
 ## Guideline v1.4
 
